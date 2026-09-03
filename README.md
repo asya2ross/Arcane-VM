@@ -47,4 +47,5 @@ privilege escalation.
 2. Boot it in Bridged mode — it will grab an IP via DHCP on your local network.
 3. Start with recon and go from there.
 
-[Download the machine from HackMyVM](https://hackmyvm.eu/machines/machine.php?vm=Arcane).
+[Play on HackMyVM](https://hackmyvm.eu/machines/machine.php?vm=Arcane).
+[Download the VM directly from Mega](https://mega.nz/file/zt1G0QqD#BOPS6BPkqah9Fiyl0uU03apdwQGzggScyCNPMNOgNFM).
