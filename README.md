@@ -48,4 +48,5 @@ privilege escalation.
 3. Start with recon and go from there.
 
 [Play on HackMyVM](https://hackmyvm.eu/machines/machine.php?vm=Arcane).
+
 [Download the VM directly from Mega](https://mega.nz/file/zt1G0QqD#BOPS6BPkqah9Fiyl0uU03apdwQGzggScyCNPMNOgNFM).
