@@ -26,7 +26,7 @@ privilege escalation.
 ## Topics covered
 
 <details>
-<summary>Click to expand (contains spoilers)</summary>
+<summary>Click to expand (**contains spoilers**)</summary>
 
 - Anonymous FTP enumeration 
 - Steganography
